@@ -3,7 +3,7 @@
 
 > **Canonical URI:** <https://github.com/TaoishTechy/CubeTrix-UOL>  
 > **SPDX ID:** UOL-4.0-R1  
-> **Maintainer:** Micheal Landry — CubeTrix / Unified Archetypal Mind Project  
+> **Maintainer:** Michael Landry — CubeTrix / Unified Archetypal Mind Project  
 > **Effective Date:** 2025-11-06
 
 ## 🌌 Purpose
@@ -36,4 +36,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for pull request and governance rules.
 ## 📜 License
 Unified Open License v4.0-R1 (AGPL-3.0 + CC BY-SA 4.0 + ODbL 1.0).
 
-**CubeTrix-UOL © 2025 Micheal Landry and Contributors**
+**CubeTrix-UOL © 2025 Michael Landry and Contributors**
